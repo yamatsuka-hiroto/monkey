@@ -1,2 +1,2 @@
 # monkey
-study with 'Writing An Interpreter In Go'
+Study with 'Writing An Interpreter In Go'
